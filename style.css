@@ -1,0 +1,36 @@
+body {
+
+	background-image: url("images/imagen_servicios_home.jpg");
+}
+
+.circle {
+	display: flex;
+	position: relative;
+	width: 150px;
+	height: 150px;
+	background: white;
+	box-sizing: border-box;
+	border-radius: 50%;
+	background-image: url("images/carlos_moreno_bw.jpg");
+	background-size: 150px auto;
+	background-position: center -10px;
+	border-style: solid;
+	border-color: white;
+	border-width: 5px;
+	margin: auto;
+	margin-top: 15%;
+}
+
+.myname {
+
+	color: white;
+	font-family: 'Righteous', cursive;
+	text-align: center;
+}
+
+.city {
+
+	color: white;
+	font-family: 'Righteous', cursive;
+	text-align: center;
+}
